@@ -5,7 +5,8 @@ Creating a detailed README for your Kotlin calculator app on GitHub is a great i
 
 A simple and intuitive calculator app developed using Kotlin. This app allows you to perform basic arithmetic operations such as addition, subtraction, multiplication, and division with ease.
 
-![Calculator App](images/calculator_screenshot.png)
+![Calculator App](![Screenshot 2024-07-07 152307](https://github.com/AmulyaMallola/CalculatorApp/assets/95603026/27a579bf-283b-4576-ba75-8389df8f60c9)
+)
 
 ## Features
 
@@ -15,11 +16,12 @@ A simple and intuitive calculator app developed using Kotlin. This app allows yo
 
 ## Screenshots
 
-### Main Screen
-![Main Screen](images/main_screen.png)
+
 
 ### Performing Calculations
-![Calculations](images/calculations.png)
+![Screenshot 2024-07-07 150342](https://github.com/AmulyaMallola/CalculatorApp/assets/95603026/725133cc-5464-4be2-8f69-5dfb13dc151a)
+
+![Screenshot 2024-07-07 150355](https://github.com/AmulyaMallola/CalculatorApp/assets/95603026/e9e8e42b-bc7b-47a5-a1dd-9cda8f7f7974)
 
 ## Getting Started
 
